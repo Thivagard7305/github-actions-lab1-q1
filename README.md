@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-Hi from Thivagar
+Hi this is Thivagar from Tamil Nadu, India
